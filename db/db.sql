@@ -1,0 +1,3 @@
+CREATE USER apps WITH PASSWORD 'nosezebrataxphone';
+
+CREATE DATABASE lil WITH OWNER apps;
